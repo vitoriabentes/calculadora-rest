@@ -1,0 +1,26 @@
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\bin\Debug\net8.0\appsettings.Development.json
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\bin\Debug\net8.0\appsettings.json
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\bin\Debug\net8.0\Calculadora REST.exe
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\bin\Debug\net8.0\Calculadora REST.deps.json
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\bin\Debug\net8.0\Calculadora REST.runtimeconfig.json
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\bin\Debug\net8.0\Calculadora REST.dll
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\bin\Debug\net8.0\Calculadora REST.pdb
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\obj\Debug\net8.0\Calculadora REST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\obj\Debug\net8.0\Calculadora REST.AssemblyInfoInputs.cache
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\obj\Debug\net8.0\Calculadora REST.AssemblyInfo.cs
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\obj\Debug\net8.0\Calculadora REST.csproj.CoreCompileInputs.cache
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\obj\Debug\net8.0\Calculadora REST.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\obj\Debug\net8.0\Calculadora REST.sourcelink.json
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\obj\Debug\net8.0\staticwebassets\msbuild.Calculadora REST.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\obj\Debug\net8.0\staticwebassets\msbuild.build.Calculadora REST.props
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Calculadora REST.props
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Calculadora REST.props
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\obj\Debug\net8.0\scopedcss\bundle\Calculadora REST.styles.css
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\obj\Debug\net8.0\Calculadora REST.dll
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\obj\Debug\net8.0\refint\Calculadora REST.dll
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\obj\Debug\net8.0\Calculadora REST.pdb
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\obj\Debug\net8.0\Calculadora REST.genruntimeconfig.cache
+C:\Projetos\calculadora-rest\Calculadora REST\Calculadora REST\obj\Debug\net8.0\ref\Calculadora REST.dll
